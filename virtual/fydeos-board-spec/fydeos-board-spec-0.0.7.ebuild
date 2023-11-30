@@ -3,14 +3,16 @@
 
 EAPI="4"
 
-DESCRIPTION="sunplus camera config"
+DESCRIPTION="empty project"
 HOMEPAGE="http://fydeos.com"
 
-LICENSE="BSD-Google"
+LICENSE="BSD"
 SLOT="0"
 KEYWORDS="*"
-IUSE=""
 
-RDEPEND="chromeos-base/common-usb-camera-config"
+RDEPEND="
+    virtual/openfyde-board-spec
+    chromeos-base/device-appid
+"
 
 DEPEND="${RDEPEND}"

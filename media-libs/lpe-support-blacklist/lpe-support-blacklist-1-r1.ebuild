@@ -1,4 +1,4 @@
-# Copyright (c) 2023 Jema Innovations Limited and the openJema Authors.
+# Copyright (c) 2022 Fyde Innovations Limited and the openFyde Authors.
 # Distributed under the license specified in the root directory of this project.
 
 # Copyright 2016 The Chromium OS Authors. All rights reserved.
